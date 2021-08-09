@@ -96,4 +96,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
+## Notes
+
+(CSS Filter)[https://developer.mozilla.org/en-US/docs/Web/CSS/filter]
+(CSS Transform)[https://developer.mozilla.org/en-US/docs/Web/CSS/transform]
+
 <!-- AUTO-GENERATED-CONTENT:END -->

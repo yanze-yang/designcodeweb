@@ -3,8 +3,7 @@ import React from "react"
 import styled from "styled-components"
 import { Caption2, SmallText } from "../styles/TextStyles"
 
-export default function PurchaseButton(props) {
-  const { title, subtitle } = props
+export default function PurchaseButton({ title, subtitle }) {
   return (
     <Link to="/page-2">
       <Wrapper>
